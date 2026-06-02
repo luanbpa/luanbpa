@@ -15,6 +15,11 @@ Atualmente estou em transicao para a area de Analise de Dados e Business Intelli
 - Indicadores financeiros, contabeis e administrativos
 - Dados publicos, orcamento e gestao publica
 
+## Certificacoes recentes
+
+- Power BI - Open Academy Santander, 8 horas, concluido em 02/06/2026
+- Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes - DIO
+
 ## Base tecnica
 
 - Logica de programacao
