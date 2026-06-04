@@ -46,6 +46,14 @@ Minha base em Contabilidade e Administracao Publica me ajuda a entender problema
 
 ## Projetos
 
+### Dashboard BI - Ganhos como Motoboy de App
+
+Projeto de Analise de Dados/BI com tratamento de dados em Python, painel web interativo, indicadores de receita, despesas, receita liquida, metas mensais, filtros por periodo e entrada/edicao de lancamentos.
+
+- Repositorio: https://github.com/luanbpa/motoboy-bi-portfolio
+- Tecnologias: Python, CSV, HTML, CSS, JavaScript, Chart.js e conceitos de Power BI/DAX.
+- Foco analitico: renda variavel, desempenho operacional, custos, receita liquida e acompanhamento mensal.
+
 Estou construindo meu portfolio com foco em:
 
 - dashboards financeiros e contabeis;
