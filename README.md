@@ -39,6 +39,9 @@ Atualmente estou em transicao para a area de Analise de Dados e Business Intelli
 - Relatorios gerenciais
 - Visualizacao de dados
 - Interpretacao de indicadores
+  -------
+
+  ![luanbpa's Stats](https://github-readme-stats.vercel.app/api?username=luanbpa&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)![luanbpa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luanbpa&theme=chartreuse-dark&hide_border=true)![luanbpa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanbpa&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Diferencial profissional
 
