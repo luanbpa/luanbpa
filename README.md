@@ -3,13 +3,11 @@
 Profissional formado em Contabilidade, com pos-graduacao em Administracao Publica e Gestao de Pessoas, Filosofia e Sociologia. Tambem cursei Analise de Sistemas ate o 5o periodo, desenvolvendo base em logica de programacao, fundamentos de C#, bancos de dados, redes e tecnologia.
 
 Atualmente estou em transicao para a area de Analise de Dados e Business Intelligence, unindo minha experiencia em rotinas contabeis, fiscais, administrativas e operacionais com estudos em Power BI, SQL, Python basico e fundamentos de inteligencia artificial.
-------
-<div align="center">
-  <img src="[URL_DO_SEU_QUADRO_1](https://github-readme-stats.vercel.app/api?username=luanbpa&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)" width="30%" alt="Quadro 1">
-  <img src="[URL_DO_SEU_QUADRO_2](https://github-readme-streak-stats.herokuapp.com/?user=luanbpa&theme=chartreuse-dark&hide_border=true)" width="30%" alt="Quadro 2">
-  <img src="[URL_DO_SEU_QUADRO_3](https://github-readme-stats.vercel.app/api/top-langs/?username=luanbpa&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)" width="30%" alt="Quadro 3">
-</div>
 
+
+![luanbpa's Stats](https://github-readme-stats.vercel.app/api?username=luanbpa&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+![luanbpa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luanbpa&theme=chartreuse-dark&hide_border=false)
+![luanbpa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanbpa&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ## Foco atual
