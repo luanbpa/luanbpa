@@ -77,3 +77,14 @@ Estou construindo meu portfolio com foco em:
 
 - LinkedIn: https://www.linkedin.com/in/luan-b-p-de-araujo-97bb02aa/
 - GitHub: https://github.com/luanbpa
+
+
+## Prática de colaboração no GitHub
+
+Este repositório também registra minha prática com Git e GitHub, incluindo:
+
+- edição de arquivos em Markdown;
+- criação de commits descritivos;
+- organização de melhorias por Issues;
+- uso de branches e Pull Requests;
+- colaboração e revisão de alterações.
